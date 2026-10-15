@@ -17,7 +17,7 @@ global.defaultLenguaje = 'es';
 
 global.owner = [
   ['573124354918', '👑 ALEXANDER 👑', true],
-  
+];  
 
 global.suittag = ['5219993404349'];
 global.prems = [];
