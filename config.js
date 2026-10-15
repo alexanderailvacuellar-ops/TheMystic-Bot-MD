@@ -19,7 +19,7 @@ global.owner = [
   ['573124354918', '👑 ALEXANDER 👑', true],
 ];  
 
-global.suittag = ['5219993404349'];
+global.suittag = ['573124354918'];
 global.prems = [];
 
 // Base Rest Api
